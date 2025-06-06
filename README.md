@@ -2,7 +2,7 @@
 tagging and annotations with LLM
 
 
-create a virual environment with pyhon version 3.12
+create a virtual environment with python version 3.12
 
 and pip install the packages: 
 pandas==2.2.3
