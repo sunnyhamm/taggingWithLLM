@@ -19,3 +19,6 @@ torch==2.6.0
 sentence_transformers==4.1.0
 hf-xet==1.1.2
 google-generativeai==0.8.5
+
+
+entry point script : taggingAnnotationWithLLM.py
